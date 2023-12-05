@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="about" type="id" />
+    <item name="id_txt_title" type="id" />
+    <item name="id_desk" type="id" />
+    <item name="id_image" type="id" />
+    <item name="main_card" type="id" />
+    <item name="reycler_view" type="id" />
+</resources>
